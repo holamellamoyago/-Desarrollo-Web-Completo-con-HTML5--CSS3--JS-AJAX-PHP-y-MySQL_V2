@@ -1,0 +1,3 @@
+// Comandos a saber :
+// npm run dev -> Lo que se coloque en el package.json
+// npm gulp dev -> Nombre de la tarea
